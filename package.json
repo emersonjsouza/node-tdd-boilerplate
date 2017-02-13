@@ -6,8 +6,15 @@
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "chai",
+    "mocha",
+    "istanbul",
+    "gulp",
+    "tdd",
+    "node"
+  ],
+  "author": "Emerson Jose <emersonjprogramador@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
